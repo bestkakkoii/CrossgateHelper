@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>CgHP.t</EnterFile>
+<Language>1</Language>
+<Version>7.0</Version>
+<ExeIco>D:\Users\Philip_Chen\Documents\soft\info\lovesa.ico</ExeIco>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+<VersionInfo>
+<ProductName>CrossgateHelper</ProductName>
+<FileDescription>BluecgCgHP</FileDescription>
+<InternalName>CgHP</InternalName>
+<CompanyName>Bestkakkoii llc.</CompanyName>
+<LegalCopyright>2019-2021(C)&lt;Bestkakkoii llc.&gt;All rights reserved</LegalCopyright>
+<FileVersion>1.0.4.5</FileVersion>
+<ProductVersion>1.0.4.5</ProductVersion>
+</VersionInfo>
+</Project>
